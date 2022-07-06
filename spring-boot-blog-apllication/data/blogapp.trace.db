@@ -1,0 +1,4 @@
+2022-07-05 22:04:33 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "[*]POST"; ожидалось "PREPARE"
+Syntax error in SQL statement "[*]POST"; expected "PREPARE"; SQL statement:
+POST [42001-214]
